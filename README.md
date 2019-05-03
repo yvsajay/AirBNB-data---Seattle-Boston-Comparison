@@ -11,14 +11,6 @@
       - [What are the best neighbourhoods to stay in Seattle and Boston?](#what-are-the-best-neighbourhoods-to-stay-in-seattle-and-boston-)
 - [Acknowledgements](#acknowledgements)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-- [Project Motivation](## Project Motivation)
-- [Questions Answered](##Questions answered)  
-- [Libraries Used](## Libraries used)  
-- [Files in the Repository](## Files in the Repository)
-- [Blog post link](##Blog Post Link)
-- [Summary of Analysis](## Summary of Analysis)
 
 ## Project Motivation
 >This project is being done as a part of the Udacity's Data Scientist Nano Degree program Term 2. The project is later used to convey the results using a Blog post.
