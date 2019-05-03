@@ -1,5 +1,18 @@
 
 ##### Table of Contents  
+- [Project Motivation](#project-motivation)
+- [Questions answered](#questions-answered)
+- [Libraries used:](#libraries-used-)
+- [Files in the Repository](#files-in-the-repository)
+- [Blog Post Link](#blog-post-link)
+- [Summary of Analysis](#summary-of-analysis)
+      - [Does price have any impact on review scores in Seattle and Boston?](#does-price-have-any-impact-on-review-scores-in-seattle-and-boston-)
+      - [How do Seattle and Boston homeowners describe their houses? Is there a difference in the way top reviewed houses are described?](#how-do-seattle-and-boston-homeowners-describe-their-houses--is-there-a-difference-in-the-way-top-reviewed-houses-are-described-)
+      - [What are the best neighbourhoods to stay in Seattle and Boston?](#what-are-the-best-neighbourhoods-to-stay-in-seattle-and-boston-)
+- [Acknowledgements](#acknowledgements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 - [Project Motivation](## Project Motivation)
 - [Questions Answered](##Questions answered)  
 - [Libraries Used](## Libraries used)  
@@ -8,8 +21,9 @@
 - [Summary of Analysis](## Summary of Analysis)
 
 ## Project Motivation
-This project is being done as a part of the Udacity's Data Scientist Nano Degree program Term 2. The project is later used to convey the results using a Blog post.
-The questions I intended to answer does not neet any data science models to be explored and hence, I've left them out for this particular project. The emphasis has been laid upon presenting the data as clearly and meaningfully as possible. While, there have been others who worked on the same data, I have purposefully, avoided to answer regular questions and tried to look at unusual questions.
+>This project is being done as a part of the Udacity's Data Scientist Nano Degree program Term 2. The project is later used to convey the results using a Blog post.
+
+>The questions I intended to answer does not need any Data science models to be explored and hence, I've left them out for this particular project. The emphasis has been laid upon presenting the data as clearly and meaningfully as possible. While, there have been others who worked on the same data, I have purposefully, avoided to answer regular questions and tried to look at unusual questions.
 
 ## Questions answered
 We will explore the Airbnb Seattle and Boston data and answer 3 major questions
@@ -37,19 +51,24 @@ https://medium.com/@yvsajay/3-airbnb-insights-that-will-make-you-smarter-on-your
 
 ## Summary of Analysis
 ##### Does price have any impact on review scores in Seattle and Boston?
->As the prices go up, the review ratings also remain high. This implies that at higher prices, listings generally are able to satisfy the higher demands and expectations of the travelers staying in the rooms.
+>As the prices go up, the review ratings also remain high. 
+
+>This implies that at higher prices, listings generally are able to satisfy the higher demands and expectations of the travelers staying in the rooms.
 
 ##### How do Seattle and Boston homeowners describe their houses? Is there a difference in the way top reviewed houses are described?
 >**Seattle Discussion**
 >At an aggregate level for overall listings within Seattle, the summaries seem to have the following words at a higher frequency: beautiful, comfortable, private home, being near downtown, things being available at walking distance. Capitol Hill area also seems to be very popular.
+
 >When you compare it against the top 25 percentile homes in Seattle (75th percentile for review ratings in Seattle is 99), majority of the words are similar. However, there are few interesting words which had higher frequency amongst those with high ratings. These are neighborhood, kitchen, large, and downtown.
 
 >**Boston Discussion**
 >At an aggregate level for overall listings within Boston, the summaries seem to have the following words at a higher frequency: downtown, Back bay location, beautiful, park, South end, private home, and park.
+
 >When you compare it against the top 25 percentile homes in Boston (75th percentile for review ratings in Boston is 98), majority of the words are similar. However, there are few interesting words which had higher frequency amongst those with high ratings. These are neighbourhood, located, being near restaurant, and close. Being close to happening places, seem to be the major driver behind getting higher ratings in Boston as per the word cloud.
 
 ##### What are the best neighbourhoods to stay in Seattle and Boston?
 >In Seattle, Southeast Magnolia is the best neighborhood for Airbnb rooms.
+
 >Unlike Seattle, in Boston, there is no clear one neighbourhood but rather few choices depending on what one wants. The balanced choices are between Jamaica Plain and South Boston Waterfront which have relatively high number of listings and high review ratings. However if one wants to go purely by highest review rating scores, then he/she has to look at Roslindale and West Roxbury neighbourhoods.
 
 ## Acknowledgements 
