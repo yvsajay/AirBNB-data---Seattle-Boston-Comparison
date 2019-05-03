@@ -37,6 +37,7 @@ We will explore the Airbnb Seattle and Boston data and answer 3 major questions
 3. Seattle_cleaned.csv - Cleaned csv file generated after few modifications done on the original data set of Seattle listings.
 4. Boston_cleaned.csv - Cleaned csv file generated after few modifications done on the original data set of Boston listings.
 5. Exploration.ipynb - Jupyter notebook containing all the data exploration and analysis done for the 3 questions I intended to answer.
+6. Exploration.html - The HTML file of the jupyter notebook. It is always advisable to save your work as HTML for future reference and to share with those who do not have jupyter notebook running in their systems.
 
 ## Blog Post Link
 https://medium.com/@yvsajay/3-airbnb-insights-that-will-make-you-smarter-on-your-next-seattle-or-boston-booking-13995cd281bc 
