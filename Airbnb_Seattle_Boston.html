@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
-<title>exploration</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Airbnb_Seattle_Boston</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <style type="text/css">
@@ -13137,6 +13137,17 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h4 id="Data-Preparation-for-Question-1">Data Preparation for Question 1<a class="anchor-link" href="#Data-Preparation-for-Question-1">&#182;</a></h4>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>For our first question, we will deal with the "<strong>price</strong>" and "<strong>review_scores_rating</strong>" columns. As seen in the exploration phase, "price" is not a numeric value in the dataframe and we will need to convert it into one after taking care of other usual characters in a currency field like the "$" sign and ",".</p>
+<p><strong>Dropping NAs</strong>: We will also drop any rows that does not have a value for the above two fields as it will make our data analysis eaiser. Please note that we could instead use the mean, median, or the most frequently used vlaue for the analysis. As our dataset is relatively small, I did not want to use the above approach of replacing the NANs with any other value.
+While removing the rows might make our dataset even smaller, it will retain the actual values, and there will be no influence of any sort.</p>
+
 </div>
 </div>
 </div>
